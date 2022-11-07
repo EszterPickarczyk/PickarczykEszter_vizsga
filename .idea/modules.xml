@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project feladatok/1. joslas/1. joslas.iml" filepath="$PROJECT_DIR$/Project feladatok/1. joslas/1. joslas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project feladatok/2. konyvtar/2. konyvtar.iml" filepath="$PROJECT_DIR$/Project feladatok/2. konyvtar/2. konyvtar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project feladatok/3. naplo/3. naplo.iml" filepath="$PROJECT_DIR$/Project feladatok/3. naplo/3. naplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project feladatok/4. kutyak/4. kutyak.iml" filepath="$PROJECT_DIR$/Project feladatok/4. kutyak/4. kutyak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project feladatok/5. Budapest/5. Budapest.iml" filepath="$PROJECT_DIR$/Project feladatok/5. Budapest/5. Budapest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/junior_java_backend_fejleszto-main.iml" filepath="$PROJECT_DIR$/.idea/junior_java_backend_fejleszto-main.iml" />
+    </modules>
+  </component>
+</project>

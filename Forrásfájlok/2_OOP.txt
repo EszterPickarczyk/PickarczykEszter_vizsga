@@ -1,0 +1,8 @@
+Adatok:
+ISBN: 9783404142163, Cím: Egri csillagok, Szerzo: Gárdonyi Géza, Nyelv: magyar, MegjelenesiDatum: 1899.
+ISBN: 9788807900365, Cím: A Pál utcai fiúk , Szerzo: Molnár Ferenc, Nyelv: magyar, MegjelenesiDatum: 1906.
+
+A könyvek hozzáadása a Main-ben:
+
+konyv konyv1=new konyv("9783404142163","Egri Csillagok","Gárdonyi Géza","magyar",1899);
+konyv konyv2=new konyv("9788807900365","A Pál utcai fiúk","Molnár Ferenc","magyar",1906);
